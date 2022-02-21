@@ -1,0 +1,15 @@
+#container{
+    display: flex;
+    border: 1px solid black;
+    /* height: 700px; */
+  }
+  
+  #sidebar{
+    flex: 2;
+    border: 1px solid yellow;
+  }
+  
+  #main{
+    flex: 8;
+    border: 1px solid red;
+  }
